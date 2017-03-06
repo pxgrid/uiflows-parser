@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha test/**"
   },
+  "repository": "git@github.com:pxgrid/uiflows-parser.git",
   "author": "",
   "license": "ISC",
   "devDependencies": {
