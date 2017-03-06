@@ -1,0 +1,20 @@
+{
+  "name": "uiflows-parser",
+  "version": "1.0.0",
+  "description": "Parse a string of uiflows lang, return the string dot lang.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "proxyquire": "^1.7.11",
+    "sinon": "^1.17.7"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
