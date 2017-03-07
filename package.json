@@ -1,6 +1,6 @@
 {
   "name": "uiflows-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse a string of uiflows lang, return the string dot lang.",
   "main": "index.js",
   "scripts": {
