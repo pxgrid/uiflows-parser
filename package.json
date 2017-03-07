@@ -7,8 +7,15 @@
     "test": "mocha test/**"
   },
   "repository": "git@github.com:pxgrid/uiflows-parser.git",
-  "author": "",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxgrid/uiflows-parser/issues"
+  },
+  "author": {
+    "name": "Makoto OOSUGI",
+    "email": "oosugi@pxgrid.com",
+    "url": "https://www.pxgrid.com/"
+  },
+  "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
